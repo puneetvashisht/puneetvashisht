@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **puneetvashisht/puneetvashisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,50 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
+### Hey 👋🏽, I'm [Puneet Vashisht!](https://domshom.com) 
 
 <br/>
 
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+
+<a href="https://twitter.com/puneetvashisht">
+  <img align="left" alt="Puneet Vashisht | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/puneetvashisht6/">
+  <img align="left" alt="Puneet's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://www.instagram.com/puneetvashisht6/">
+  <img align="left" alt="Puneet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm Puneet Vashisht, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://domshom.com). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Puneet Vashisht, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@Domshom](https://domshom.com). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 👨🏽‍💻 I’m currently working on [NodeJS API](https://github.com/puneetvashisht/api-nodejs);
 - 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👯 I’m looking to collaborate on [NodeJS Development](https://github.com/puneetvashisht/api-nodejs) 🤝;
+- 🤔 I’m looking for help with Native Mobile Apps  😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1jFEL0_KAJEd1mCiR_02SMwbBEuRMqpv7/view)
+- ⚡️ Fun-Fact: I started helping IT freshers by launching my own platform known as [Domshom](https://domshom.com/) in 2018, and sold almost **150+** video courses so far!
+- 📫 How to reach me: puneetvashisht@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1ZFC_VeW6S0NWWJBeWDdH77XE7RpHCUfN/view?usp=sharing)
 
 **Languages and Tools:**  
 
