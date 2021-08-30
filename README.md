@@ -43,7 +43,7 @@ Hi, I'm Puneet Vashisht, a Full Stack Developer 🚀 from India, currently, I'm 
 - 👯 I’m looking to collaborate on [NodeJS Development](https://github.com/puneetvashisht/api-nodejs) 🤝;
 - 🤔 I’m looking for help with Native Mobile Apps  😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping IT freshers by launching my own platform known as [Domshom](https://domshom.com/) in 2018, and sold almost **150+** video courses so far!
+- ⚡️ Fun-Fact: I started helping IT freshers by launching my own platform known as [Domshom](https://domshom.com/) in 2021, and sold almost **150+** video courses so far!
 - 📫 How to reach me: puneetvashisht@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1ZFC_VeW6S0NWWJBeWDdH77XE7RpHCUfN/view?usp=sharing)
 
